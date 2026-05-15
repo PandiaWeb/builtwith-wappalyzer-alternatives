@@ -12,7 +12,7 @@ Product | Pricing | API | Good BuiltWith Alternative | Stacks Tracked | Integrat
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 [BuiltWith](https://builtwith.com) | Starts ~$295/mo | ✅ | — | ~55,000+ | Salesforce, HubSpot, CSV
 [Wappalyzer](https://www.wappalyzer.com) | Starts ~$250/mo | ✅ | ✅ | ~10,000 | CRM + API
-[StackScan](https://stackscan.com) | Lifetime Deal + subscription | ✅ | ✅ | ~55,000 | CSV, API
+⭐ **[StackScan](https://stackscan.co)** | **Lifetime Deal + subscription** | ✅ | ✅ | **~55,000** | CSV, API
 [6sense](https://6sense.com) | Enterprise pricing (~$15k+/yr) | ✅ | ⚠️ Enterprise-focused | ~30,000+ | Salesforce, HubSpot, Marketo
 [TheirStack](https://theirstack.com) | Custom pricing | ✅ | ✅ | ~50,000+ | API + CSV
 [Bloomberry](https://www.bloomberry.com) | Custom pricing | ✅ | ⚠️ Partial | Not publicly disclosed | CRM integrations
