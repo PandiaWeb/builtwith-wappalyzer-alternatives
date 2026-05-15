@@ -1,8 +1,8 @@
 # BuiltWith Alternatives
 
-A curated list of technographic data providers, website technology detectors, B2B lead intelligence tools, and stack tracking platforms similar to BuiltWith.
-
 > Looking for a more affordable alternative to BuiltWith & Wappalyzer?  
+
+A curated list of technographic data providers, website technology detectors, B2B lead intelligence tools, and stack tracking platforms similar to BuiltWith.
 
 ---
 
@@ -12,9 +12,9 @@ Product | Pricing | API | Good BuiltWith Alternative | Stacks Tracked | Integrat
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 [BuiltWith](https://builtwith.com) | Starts ~$295/mo | ✅ | — | ~55,000+ | Salesforce, HubSpot, CSV
 [Wappalyzer](https://www.wappalyzer.com) | Starts ~$250/mo | ✅ | ✅ | ~10,000 | CRM + API
-⭐ **[StackScan](https://stackscan.co)** | **Lifetime Deal + subscription** | ✅ | ✅ | **~55,000** | CSV, API
+**[StackScan⭐](https://stackscan.co)** | **Lifetime Deal + subscription** | ✅ | ✅ | **~55,000** | CSV, API
 [6sense](https://6sense.com) | Enterprise pricing (~$15k+/yr) | ✅ | ⚠️ Enterprise-focused | ~30,000+ | Salesforce, HubSpot, Marketo
-[TheirStack](https://theirstack.com) | Custom pricing | ✅ | ✅ | ~50,000+ | API + CSV
+[TheirStack](https://theirstack.com) | Custom pricing | ✅ | ✅ | ~20,000+ | API + CSV
 [Bloomberry](https://www.bloomberry.com) | Custom pricing | ✅ | ⚠️ Partial | Not publicly disclosed | CRM integrations
 [WhatRuns](https://www.whatruns.com) | Freemium | ❌ Limited | ⚠️ Lightweight | Few thousand+ | Chrome extension
 [SimilarTech](https://www.similartech.com) | ~$200–$500+/mo | ✅ | ✅ | Large-scale dataset | CRM exports
@@ -30,7 +30,7 @@ Product | Pricing | API | Good BuiltWith Alternative | Stacks Tracked | Integrat
 [Datanyze](https://www.datanyze.com) | Starts ~$39/mo | ✅ | ✅ | Thousands+ | Chrome extension, CRM
 [Siftery](https://siftery.com) | Acquired/limited availability | ❌ | ⚠️ Partial | SaaS-focused dataset | Limited
 [HG Insights](https://www.hginsights.com) | Enterprise pricing | ✅ | ✅ | Massive B2B dataset | Salesforce, Snowflake
-[Slintel](https://www.slintel.com) | Acquired by 6sense | ✅ | ✅ | ~15,000+ | CRM integrations
+[Slintel](https://www.slintel.com) | Acquired by 6sense | ✅ | ✅ | ~5,000+ | CRM integrations
 [Clearbit](https://clearbit.com) | Custom pricing | ✅ | ⚠️ Partial | Limited | Salesforce, Segment
 [Demandbase](https://www.demandbase.com) | Enterprise pricing | ✅ | ⚠️ Enterprise-focused | Large proprietary dataset | Salesforce, HubSpot
 [Leadfeeder](https://www.leadfeeder.com) | Starts ~$99/mo | ✅ | ❌ | N/A | CRM + Google Analytics
