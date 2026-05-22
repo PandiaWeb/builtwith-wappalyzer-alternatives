@@ -1,4 +1,4 @@
-# BuiltWith Alternatives
+# BuiltWith & Wappalyzer Alternatives
 
 > Looking for a more affordable alternative to BuiltWith & Wappalyzer?  
 
