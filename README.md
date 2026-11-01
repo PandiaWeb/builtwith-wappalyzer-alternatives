@@ -38,6 +38,7 @@ Product | Pricing | API | Good BuiltWith Alternative | Stacks Tracked | Integrat
 [Clay](https://www.clay.com) | Starts ~$149/mo | ✅ | ⚠️ Aggregated | Depends on providers | Hundreds of integrations
 [RocketReach](https://rocketreach.co) | Starts ~$53/mo | ✅ | ❌ | N/A | CRM integrations
 [Lusha](https://www.lusha.com) | Starts ~$49/mo | ✅ | ❌ | Limited | Salesforce, HubSpot
+[JobsPipe](https://jobspipe.dev) | Free plan (1,000 credits, no card), paid from $19.60/mo | ✅ | ⚠️ Partial (domain stack scan + hiring signals) | Not publicly disclosed | API, webhooks, MCP
 
 ---
 
